@@ -1,1 +1,1 @@
-A repository for projects undeertaken during an internship program - GRIP offered by The Spark Foundation, for the month of May 2021.
+A repository for projects undertaken during an internship program - GRIP offered by The Spark Foundation, for the month of May 2021.
