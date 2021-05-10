@@ -1,2 +1,1 @@
-# grip
-Graduate Rotational Internship Program
+A repository for projects undeertaken during an internship program - GRIP offered by The Spark Foundation, for the month of May 2021.
